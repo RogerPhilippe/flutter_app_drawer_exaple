@@ -1,6 +1,6 @@
 # flutter_app_drawer_exaple
 
-A new Flutter application.
+App Flutter - Drawer and endDrawer.
 
 ## Getting Started
 
